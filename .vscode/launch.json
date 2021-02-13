@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DocumentTest",
+            "request": "launch",
+            "mainClass": "DocumentTest",
+            "projectName": "ch6.OOP(1)_82b1be5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductTest",
+            "request": "launch",
+            "mainClass": "ProductTest",
+            "projectName": "ch6.OOP(1)_82b1be5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticBlockTest",
+            "request": "launch",
+            "mainClass": "StaticBlockTest",
+            "projectName": "ch6.OOP(1)_82b1be5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest3",
+            "request": "launch",
+            "mainClass": "CarTest3",
+            "projectName": "ch6.OOP(1)_82b1be5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest2",
+            "request": "launch",
+            "mainClass": "CarTest2",
+            "projectName": "ch6.OOP(1)_82b1be5b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
